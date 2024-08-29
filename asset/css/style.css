@@ -1,0 +1,16 @@
+.about{
+    text-align: center;
+    background-color: #ccc;
+    padding: 10px;
+    margin: 5px;
+}
+
+#about-paragrah{
+font-size: 30px;
+font-family:'Times New Roman', Times, serif ;
+}
+
+img{
+    border: 2px solid red;
+    border-radius: 5%;
+}
